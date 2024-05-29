@@ -4,20 +4,119 @@
     "name": "Play Station 5",
     "detail": "Esto es una play5",
     "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21",
-    "price": "120000"
+    "price": "120000",
+    "category": "CONSOLAS"
   },
   {
     "id": 1,
     "name": "Xbox",
     "detail": "Esto es una xbox",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnn5MuwY17CZ7Bn645ewZ_c1cPJvkCZ3vCPjz60AwApg&s",
-    "price": "80000"
+    "price": "80000",
+    "category": "CONSOLAS"
   },
   {
     "id": 2,
     "name": "Nintendo",
     "detail": "Esto es una nintendo",
     "image": "https://www.shutterstock.com/image-photo/cheshire-england-august-7th-2018-260nw-1173580291.jpg",
-    "price": "50000"
+    "price": "50000",
+    "category": "CONSOLAS"
+  },
+  {
+    "id": 3,
+    "name": "Fifa 23",
+    "detail": "Juego ps5",
+    "image": "https://images.fravega.com/f500/ddd1ce201e9d7ffe1253749e22a22dcd.jpg",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 4,
+    "name": "GTA 5",
+    "detail": "Juego ps5",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978260-MLU75210824134_032024-O.webp",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 5,
+    "name": "God Of War",
+    "detail": "Juego ps5",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1669906780-41TCekiYnlL._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 6,
+    "name": "Minecraft",
+    "detail": "Juego nintendo switch",
+    "image": "https://www.storegames.ar/files/images/productos/1644882413-1638920700-minecraft-nintendo-switch.jpg",
+    "price": "50000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 7,
+    "name": "Mario vs Donkey Kong",
+    "detail": "Juego nintendo switch",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921713-MLU75842138881_042024-O.webp",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 8,
+    "name": "Zelda",
+    "detail": "Juego nintendo switch",
+    "image": "https://nextgames.com.ar/img/Public/1040-producto-zelda-6887.jpg",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 9,
+    "name": "GTA 5",
+    "detail": "Juego Xbox",
+    "image": "https://http2.mlstatic.com/D_764695-MLU54967750089_042023-C.jpg",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 10,
+    "name": "Crash Bandicoot N Sane Trilogy",
+    "detail": "Juego Xbox",
+    "image": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/299d9f08-bbdd-4434-98c4-5bbeabaa2034.df1898a5d39bc6ed9447bde5932a9969.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 11,
+    "name": "Assassin's Creed Triple Pack",
+    "detail": "Juego Xbox",
+    "image": "https://products.eneba.games/resized-products/tu1jOJBlghH6EJxxvfdm5kf68U9sbNGJtP-e5Y9sLMM_155x92_2x-0.jpeg",
+    "price": "10000",
+    "category": "JUEGOS"
+  },
+  {
+    "id": 12,
+    "name": "Joystick",
+    "detail": "Ps5",
+    "image": "https://arsonyb2c.vtexassets.com/arquivos/ids/361973/711719559337_001.jpg?v=638144009568570000",
+    "price": "10000",
+    "category": "ACCESORIOS"
+  },
+  {
+    "id": 13,
+    "name": "Cargador nintendo",
+    "detail": "nintendo switch",
+    "image": "https://www.nintendo.com/eu/media/images/08_content_images/systems_5/nintendo_switch_3/CI_NSwitch_NintendoSwitch_Accessories_ChargingStand.jpg",
+    "price": "10000",
+    "category": "ACCESORIOS"
+  },
+  {
+    "id": 14,
+    "name": "Joystick con teclado",
+    "detail": "xbox",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_859074-MLA68922507187_042023-O.webp",
+    "price": "10000",
+    "category": "ACCESORIOS"
   }
 ]
