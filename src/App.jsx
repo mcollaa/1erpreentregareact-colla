@@ -12,8 +12,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route
           path="/category/:id"
-          filtered={true}
-          element={<ItemsListContainer />}
+          element={<ItemsListContainer filtered={true} />}
         />
         <Route path="/item/:id" element={<ItemDetailContainer />} />
       </Route>

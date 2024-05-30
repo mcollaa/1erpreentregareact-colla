@@ -13,8 +13,6 @@ export default function ItemsListContainer({ filtered }) {
       .then((res) => res.json())
       .then((data) => data);
 
-    console.log("CHECK FILTERED 🧑🏻‍🍳", filtered);
-
     if (filtered) {
       filterCategories(resp);
     } else {
@@ -27,7 +25,6 @@ export default function ItemsListContainer({ filtered }) {
   };
 
   const filterCategories = (data) => {
-    console.log("llego");
     const filteredCategory = data.filter(
       (item) => item.category.toLowerCase() === id.toLowerCase().trim()
     );
@@ -51,7 +48,7 @@ export default function ItemsListContainer({ filtered }) {
             image={item.image}
             name={item.name}
             price={item.price}
-            category={id}
+            category={item.category}
           />
         ))}
       </ul>
